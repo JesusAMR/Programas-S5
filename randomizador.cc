@@ -4,6 +4,12 @@
 #include <random>
 #include <vector>
 
+
+/*
+	Generar media,moda,etc...
+*/
+
+
 void randomDevice(int min, int max, int cantidad, int longitud);
 
 void randomDevice(int min, int max, int cantidad, int longitud, std::vector<float> &vec)
